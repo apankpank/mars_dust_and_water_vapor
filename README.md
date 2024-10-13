@@ -1,5 +1,5 @@
 # mars_dust_and_water_vapor
-Software associated with afticle "Effects of Global Dust Storms on Water Vapor in the Southern Polar Region of Mars." Pankine et al., 2023.
+Software associated with article "Effects of Global Dust Storms on Water Vapor in the Southern Polar Region of Mars." Pankine et al., 2023.
 
 This repository contains IDL code to reproduce figures from the article Pankine, A. A., Leung, C., Tamppari, L., Martinez, G., Giuranna, M., Piqueux, S., ... & Trokhimovskiy, A. (2023). Effects of global dust storms on water vapor in the Southern Polar Region of Mars. Journal of Geophysical Research: Planets, 128(12), e2023JE008016.
 
